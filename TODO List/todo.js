@@ -21,7 +21,7 @@ btn.onclick = function () {
             
            
                 <button class="delete">
-                    DELETE
+                    Complete
                 </button>
 
         </div>`;
