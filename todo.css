@@ -1,0 +1,57 @@
+body {
+
+    margin: 50px;
+    margin-left: 200px;
+
+}
+
+#task {
+
+    margin-top: 10px;
+    margin-right: 30px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#btn {
+    margin-top: 10px;
+    background-color: #26a69a;
+    border: none;
+    color: white;
+    padding: 15px 37px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 4px;
+}
+
+
+
+li {
+    border-bottom: 1px solid #ccc;
+    margin-right: 30px;
+}
+
+.task-div{
+    padding: 16px 0 0px 17px;
+    list-style: none;
+    background-image: url("img.webp");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 14px;
+}
+.delete {
+
+    background-color: #26a69a;
+    border: none;
+    color: white;
+    padding: 15px 37px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 4px;
+}
