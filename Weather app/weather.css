@@ -1,0 +1,48 @@
+#body-div {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 600px;
+    width: 400px;
+    margin-left: 500px;
+
+}
+
+
+#search-div {
+    margin: 20px;
+
+}
+
+#search {
+
+    margin-top: 10px;
+    margin-right: 30px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#search-btn {
+    margin-top: 10px;
+    background-color: #26a69a;
+    border: none;
+    color: white;
+    padding: 7px 22px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    border-radius: 4px;
+}
+
+#weather-img {
+    height: 100px;
+    width: 150px;
+    margin-left: 30px;
+
+
+}
+
+#temp {
+    margin-left: 100px;
+}
